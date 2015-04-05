@@ -1,0 +1,17 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "1.0",
+    "name": "Planet",
+    "description": "A simple application for learning about planets and solar system.",
+    "developer": {
+        "name": "Erfan Besharat",
+        "url": "http://erfanbs.net"
+    },
+    "icons":{
+        "128": "/icon/icon-128.png",
+        "60": "/icon/icon-60.png"
+    }
+}
